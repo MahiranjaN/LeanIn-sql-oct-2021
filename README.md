@@ -1,1 +1,1 @@
-# LeanIn-sql-oct-2021
+This repository contains the answers to the milestone's questions being assigned in the LeanIn BV Tenure of October-21 in the domain C++ Language.
